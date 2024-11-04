@@ -16,18 +16,8 @@ An automated Django web application that uses machine learning classifiers and h
 - **Hyperparameter Optimization**: Grid Search, Random Search
 - **Frontend**: HTML, CSS, JavaScript for a responsive interface
 - **Visualization**: Matplotlib, Seaborn for data insights
-- 
-## Screenshots
-Here are some screenshots of the application:
-### Home Page
-![Home Page](screenshots/home_page.pn)
-### Prediction Form
-![Prediction Form](screenshots/prediction_form.png)
-### Prediction Results
-![Prediction Results](screenshots/prediction_results.png)
 
-
-### Collaborators
+## Collaborators
 
 - [Masruk Habib ](https://www.linkedin.com/in/masruk-habib)
 - [PUVANENTHIRARAJAH SATHASIVAM](https://www.linkedin.com/in/puvanenthirarajah-sathasivam-958014266) 
