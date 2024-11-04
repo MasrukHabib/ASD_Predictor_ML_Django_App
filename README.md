@@ -26,7 +26,8 @@ An automated Django web application that uses machine learning classifiers and h
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
   
-### To Install Django app- https://github.com/puvanenthiran462/Autism-Spectrum-Disorder-prediction
+### To Install Check [Django app](https://github.com/puvanenthiran462/Autism-Spectrum-Disorder-prediction)
+### To Check [Research paper](https://ieeexplore.ieee.org/document/10692172)
 ## Collaborators
 
 - [Masruk Habib ](https://www.linkedin.com/in/masruk-habib)
